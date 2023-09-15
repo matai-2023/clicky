@@ -27,10 +27,14 @@ function Game() {
         </div>
         {states.num.state !== 0 ? (
           <>
-            <div className="flex justify-center items-center p-2">
+            <div
+              className="flex justify-center items-center p-2
+"
+            >
               <svg
                 viewBox={`0 0 300 ${states.screenSize.state.height}`}
-                className="border-4 border-primary m-8"
+                className="border-4 border-primary m-8  cursor-crosshair
+s                "
               >
                 <Square
                   x={states.squareXY.state[0]}
