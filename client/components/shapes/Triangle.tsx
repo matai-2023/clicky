@@ -19,12 +19,12 @@ function Triangle(props: Props) {
   return (
     <svg style={{ overflow: 'visible', position: 'absolute' }}>
       <polygon
-      data-testid="triangle-polygon"
+        data-testid="triangle-polygon"
         role="img"
         points={`${x1} ${y1}, ${x2} ${y2}, ${x3} ${y3}`}
         onClick={props.handleTriangleClick}
         className={props.className}
-      />
+      ></polygon>
     </svg>
   )
 }

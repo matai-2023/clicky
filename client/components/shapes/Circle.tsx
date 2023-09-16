@@ -12,7 +12,7 @@ function Circle(props: Props) {
   return (
     <svg style={{ overflow: 'visible', position: 'absolute' }}>
       <circle
-      data-testid="circle-circle"
+        data-testid="circle-circle"
         role="img"
         cx={props.x + 5}
         cy={props.y + 5}
