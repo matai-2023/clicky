@@ -1,0 +1,79 @@
+{
+  "cookies": [
+    {
+      "name": "did",
+      "value": "s%3Av0%3A38439cf0-5741-11ee-b1ab-e5179ae15737%3A169e5ad98f1e56a17be852b5f0f263d7f84bda0923a400f9c6d4f36cedbdd5df.IGyYeUhkeY3S4UejoCxEfL1t0PmUt%2FHilaN8601BdL4",
+      "domain": "matai-humaid.us.auth0.com",
+      "path": "/",
+      "expires": 1726722153.501786,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "did_compat",
+      "value": "s%3Av0%3A38439cf0-5741-11ee-b1ab-e5179ae15737%3A169e5ad98f1e56a17be852b5f0f263d7f84bda0923a400f9c6d4f36cedbdd5df.IGyYeUhkeY3S4UejoCxEfL1t0PmUt%2FHilaN8601BdL4",
+      "domain": "matai-humaid.us.auth0.com",
+      "path": "/",
+      "expires": 1726722152.744661,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth0",
+      "value": "s%3AAUsFHKz7cK6LFUcxyWCdKi76FrTBsgtz.PNnjsoIxTw8utpJg5QG3cLqcTZP5WrHm4%2Bwl1bYWIbU",
+      "domain": "matai-humaid.us.auth0.com",
+      "path": "/",
+      "expires": 1695423753.501838,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "auth0_compat",
+      "value": "s%3AAUsFHKz7cK6LFUcxyWCdKi76FrTBsgtz.PNnjsoIxTw8utpJg5QG3cLqcTZP5WrHm4%2Bwl1bYWIbU",
+      "domain": "matai-humaid.us.auth0.com",
+      "path": "/",
+      "expires": 1695423753.059143,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_legacy_auth0.qWeAhx79FWhPsQGIsFhIbRNg3oxTS9lg.is.authenticated",
+      "value": "true",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1695250953,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth0.qWeAhx79FWhPsQGIsFhIbRNg3oxTS9lg.is.authenticated",
+      "value": "true",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1695250953,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://localhost:5173",
+      "localStorage": [
+        {
+          "name": "browser-tabs-lock-key-auth0.lock.getTokenSilently",
+          "value": "{\"id\":\"16951645531194aGgRogueRMeZuT\",\"iat\":\"1695164553158l6wi\",\"timeoutKey\":\"16951645531194aGgRogueRMeZuT-auth0.lock.getTokenSilently-1695164553158l6wi\",\"timeAcquired\":1695164553194,\"timeRefreshed\":1695164553194}"
+        },
+        {
+          "name": "theme",
+          "value": "undefined"
+        }
+      ]
+    }
+  ]
+}
