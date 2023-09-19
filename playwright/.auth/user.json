@@ -2,40 +2,40 @@
   "cookies": [
     {
       "name": "did",
-      "value": "s%3Av0%3A38439cf0-5741-11ee-b1ab-e5179ae15737%3A169e5ad98f1e56a17be852b5f0f263d7f84bda0923a400f9c6d4f36cedbdd5df.IGyYeUhkeY3S4UejoCxEfL1t0PmUt%2FHilaN8601BdL4",
+      "value": "s%3Av0%3A8886d5a0-5742-11ee-b8b5-13ffe8f92609%3A169e5ad98f1e56a17be852b5f0f263d7f84bda0923a400f9c6d4f36cedbdd5df.g73z20qPk83HF9cDNSu7aOrpa0Q9dGrQod17%2F5%2BvCgI",
       "domain": "matai-humaid.us.auth0.com",
       "path": "/",
-      "expires": 1726722153.501786,
+      "expires": 1726722764.704974,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "did_compat",
-      "value": "s%3Av0%3A38439cf0-5741-11ee-b1ab-e5179ae15737%3A169e5ad98f1e56a17be852b5f0f263d7f84bda0923a400f9c6d4f36cedbdd5df.IGyYeUhkeY3S4UejoCxEfL1t0PmUt%2FHilaN8601BdL4",
+      "value": "s%3Av0%3A8886d5a0-5742-11ee-b8b5-13ffe8f92609%3A169e5ad98f1e56a17be852b5f0f263d7f84bda0923a400f9c6d4f36cedbdd5df.g73z20qPk83HF9cDNSu7aOrpa0Q9dGrQod17%2F5%2BvCgI",
       "domain": "matai-humaid.us.auth0.com",
       "path": "/",
-      "expires": 1726722152.744661,
+      "expires": 1726722763.971634,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "auth0",
-      "value": "s%3AAUsFHKz7cK6LFUcxyWCdKi76FrTBsgtz.PNnjsoIxTw8utpJg5QG3cLqcTZP5WrHm4%2Bwl1bYWIbU",
+      "value": "s%3AoDyyTwRbFlBtMqQYm9HOEW5q54xh0YMr.%2FSuYyNkBGNSw06%2Fz%2BmruhtE7LDjG%2BQ6oXbTyjQahe8M",
       "domain": "matai-humaid.us.auth0.com",
       "path": "/",
-      "expires": 1695423753.501838,
+      "expires": 1695424364.705011,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "auth0_compat",
-      "value": "s%3AAUsFHKz7cK6LFUcxyWCdKi76FrTBsgtz.PNnjsoIxTw8utpJg5QG3cLqcTZP5WrHm4%2Bwl1bYWIbU",
+      "value": "s%3AoDyyTwRbFlBtMqQYm9HOEW5q54xh0YMr.%2FSuYyNkBGNSw06%2Fz%2BmruhtE7LDjG%2BQ6oXbTyjQahe8M",
       "domain": "matai-humaid.us.auth0.com",
       "path": "/",
-      "expires": 1695423753.059143,
+      "expires": 1695424364.252167,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -45,7 +45,7 @@
       "value": "true",
       "domain": "localhost",
       "path": "/",
-      "expires": 1695250953,
+      "expires": 1695251564,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -55,7 +55,7 @@
       "value": "true",
       "domain": "localhost",
       "path": "/",
-      "expires": 1695250953,
+      "expires": 1695251564,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -67,7 +67,7 @@
       "localStorage": [
         {
           "name": "browser-tabs-lock-key-auth0.lock.getTokenSilently",
-          "value": "{\"id\":\"16951645531194aGgRogueRMeZuT\",\"iat\":\"1695164553158l6wi\",\"timeoutKey\":\"16951645531194aGgRogueRMeZuT-auth0.lock.getTokenSilently-1695164553158l6wi\",\"timeAcquired\":1695164553194,\"timeRefreshed\":1695164553194}"
+          "value": "{\"id\":\"1695165164301q9uDzRemTcpmF72\",\"iat\":\"1695165164340vwJM\",\"timeoutKey\":\"1695165164301q9uDzRemTcpmF72-auth0.lock.getTokenSilently-1695165164340vwJM\",\"timeAcquired\":1695165164373,\"timeRefreshed\":1695165164373}"
         },
         {
           "name": "theme",

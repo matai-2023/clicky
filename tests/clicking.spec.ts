@@ -38,7 +38,6 @@ test('clicky game does not deduct score on missed click outside gamebox', async 
   await page.goto('http://localhost:5173/clicky')
 
   await page.getByRole('button', { name: 'Start' }).click()
-  await page.getByRole('heading', { level: 1, name: 'Clicky!' }).click()
   await page.getByRole('heading', { level: 2, name: 'Score:' }).click()
   await page.getByRole('heading', { level: 2, name: 'Time:' }).click()
   await expect(
