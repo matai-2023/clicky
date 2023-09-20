@@ -28,8 +28,9 @@ function AddNickname() {
           Add your Nickname
         </h1>
         <div className="flex justify-center gap-4 text-4xl m-8 text-primary font-bold">
-          <label htmlFor="nickname">Nickname: </label>
+          <label htmlFor="nickname">Nickname:</label>
           <input
+            id="nickname"
             className="border-2 border-primary rounded"
             placeholder="Enter nickname"
             value={input}

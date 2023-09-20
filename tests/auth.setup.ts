@@ -1,4 +1,5 @@
 import { test as setup, expect } from '@playwright/test'
+import db from '../server/db/connection'
 
 const authFile = 'playwright/.auth/user.json'
 

@@ -23,11 +23,9 @@ test('score changes based on time', async ({ page }) => {
 
   await page.getByRole('button', { name: 'Start' }).click()
   await page.evaluate(() => window.__clock.tick(2000))
-  console.log(
-    await expect(
-      page.getByRole('heading', { level: 2, name: 'Time: 58' })
-    ).toBeVisible()
-  )
+  await expect(
+    page.getByRole('heading', { level: 2, name: 'Time: 58' })
+  ).toBeVisible()
 })
 
 test('game over pop up appears', async ({ page }) => {
@@ -35,5 +33,5 @@ test('game over pop up appears', async ({ page }) => {
 
   await page.getByRole('button', { name: 'Start' }).click()
   await page.evaluate(() => window.__clock.tick(60000))
-  console.log(await expect(page.getByTestId('game-over')).toBeVisible())
+  await expect(page.getByTestId('game-over')).toBeVisible()
 })
